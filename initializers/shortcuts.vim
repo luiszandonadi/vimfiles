@@ -24,6 +24,7 @@ imap <C-S-n> <c-l>mzgg=G'zi
 imap <C-up> <c-l><c-up>i
 "Move bloco de código para baixo
 imap <C-down> <c-l><c-down>i
+imap <F6> <c-o>:VCSVimDiff<cr> 
 
 
 
