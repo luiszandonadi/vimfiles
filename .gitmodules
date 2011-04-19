@@ -103,3 +103,9 @@
 [submodule "bundle/align"]
 	path = bundle/align
 	url = git://github.com/tsaleh/vim-align.git
+[submodule "bundle/session"]
+	path = bundle/session
+	url = git://github.com/vim-scripts/session.vim--Odding.git
+[submodule "bundle/color-sampler-pack"]
+	path = bundle/color-sampler-pack
+	url = git://github.com/vim-scripts/Color-Sampler-Pack.git
